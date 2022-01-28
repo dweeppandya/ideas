@@ -1,0 +1,6 @@
+1) Get Spotify Data -> PENDING
+    - Request personal data from Spotify -> DONE, Spotify to get back via email
+    - Explore Spotify APIs -> PENDING
+
+2) Get YT Music Data -> PENDING
+    - Explore "ytmusicapi" API -> PENDING, https://ytmusicapi.readthedocs.io/en/latest/
